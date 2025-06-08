@@ -8,5 +8,6 @@ namespace ApıSerıalızatıon
 {
     internal class Class1
     {
+        // firstnewbranch 1 commit
     }
 }
